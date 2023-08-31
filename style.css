@@ -1,0 +1,37 @@
+.bg{
+    background-image: url(image/phpVmOHiw\ \(1\).png);
+}
+
+
+.head{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bold;
+    font-style: italic;
+}
+.name{
+    margin-top: 6%;
+}
+.psw{
+    margin-top: 3%;
+}
+.btn{
+    margin-top: 3%;
+}
+.submit{
+    margin-top: 3%;
+}
+.bbg{
+    background-image: url(image/wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.enter{
+    font-size:medium;
+    
+}
+
+td{
+    width: 60px;
+    height: 60px;
+}
